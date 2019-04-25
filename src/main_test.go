@@ -1,9 +1,9 @@
-package main
+package src
 
 import (
+	"annual/server"
 	"fmt"
 	"github.com/kataras/iris/httptest"
-	"lottery/src/main/server"
 	"sync"
 	"testing"
 )

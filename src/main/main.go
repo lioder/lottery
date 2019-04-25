@@ -1,7 +1,7 @@
 package main
 
-import "main/server"
+import "shake/server"
 
-func main(){
+func main() {
 	server.Run()
 }
