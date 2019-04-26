@@ -1,6 +1,6 @@
 package main
 
-import "shake/server"
+import "redPacket/server"
 
 func main() {
 	server.Run()
